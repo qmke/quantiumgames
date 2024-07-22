@@ -1,5 +1,6 @@
 local Games = {
     [111958650] = "https://raw.githubusercontent.com/qmke/arsenal/main/arsenal",
+    [6407649031] = "https://raw.githubusercontent.com/qmke/noscope/main/noscope",
 }
 
 return Games
