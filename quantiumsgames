@@ -1,0 +1,5 @@
+local Games = {
+    [111958650] = "https://raw.githubusercontent.com/qmke/arsenal/main/arsenal",
+}
+
+return Games
